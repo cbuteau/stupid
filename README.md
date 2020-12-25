@@ -20,6 +20,10 @@ variables declared with let
 loops declared with loop
 
 
+soon after declaring functions and calling them figure out recursion.
+
+
+
 ```cmd
 loop iterate items
 end
