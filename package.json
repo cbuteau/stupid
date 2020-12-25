@@ -6,7 +6,6 @@
   "bugs": {
     "url": "https://github.com/cbuteau/stupid/issues"
   },
-  "type": "module",
   "license": "GPL-3.0",
   "author": "Christopher W Buteau <cbuteau@gmail.com>",
   "main": "index.js",
@@ -19,5 +18,9 @@
   },
   "dependencies": {
     "yargs": "16.2.0"
-  }
+  },
+  "devDependencies": {
+    "jison": "0.4.18"
+  },
+  "type": "module"
 }

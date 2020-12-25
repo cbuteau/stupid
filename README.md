@@ -11,3 +11,21 @@ hello('world');
 ```
 
 built on ES6 javascript.
+
+
+## Ideas
+
+functions declared with func
+variables declared with let
+loops declared with loop
+
+
+```cmd
+loop iterate items
+end
+```
+
+```cmd
+loop index
+end
+```
